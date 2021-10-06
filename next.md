@@ -11,4 +11,14 @@
 
 ![geatures](./1.png)
 
- # Из чего состоит HTTP-запрос?
+ # Как создать next.js приложение 
+
+ - Установить node js
+ - прописать команду 
+      npx create-next-app
+
+![geatures](./2.png)
+
+- прописать команду npm install для установки всех покетов
+      npm install 
+
