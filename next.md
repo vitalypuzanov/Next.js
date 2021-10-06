@@ -15,10 +15,12 @@
 
  - Установить node js
  - прописать команду 
+ 
       <npx create-next-app>
 
 ![smth](./2.png)
 
 - прописать команду npm install для установки всех покетов
+
       <npm install> 
 
